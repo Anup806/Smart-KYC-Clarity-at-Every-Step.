@@ -9,3 +9,6 @@ A lightweight prototype for Challenge 4: Intelligent KYC Experience - Smart Form
 
 ## Note
 This is just a prototype; actual work is on the way.
+
+## Demo Video
+[Click to watch demo](https://youtu.be/koEEmZMWvYY)
